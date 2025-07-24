@@ -1,2 +1,3 @@
-# Basic-project-using-html-css-and-js
+# Basic-project-using-html-css
+
 for practice mode
